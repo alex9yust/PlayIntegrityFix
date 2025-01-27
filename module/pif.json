@@ -1,8 +1,10 @@
 {
-    "BRAND": "google",
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 9 Pro XL",
-    "PRODUCT": "komodo_beta",
-    "DEVICE": "komodo",
-    "FINGERPRINT": "google/komodo_beta/komodo:Baklava/BP21.241121.009/12787338:user/release-keys"
+  "BRAND": "google",
+  "FINGERPRINT": "google/oriole_beta/oriole:15/BP11.241121.013/12873528:user/release-keys",
+  "MANUFACTURER": "Google",
+  "MODEL": "Pixel 6",
+  "PRODUCT": "oriole_beta",
+  "DEVICE": "oriole",
+  "SECURITY_PATCH": "2024-12-05",
+  "DEVICE_INITIAL_SDK_INT": 21
 }
